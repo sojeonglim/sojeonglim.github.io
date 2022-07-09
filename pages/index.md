@@ -4,9 +4,11 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to My Blog
 
-This is a starter template for a docsy jekyll theme.
+This is a retrospective blog of mine. Hope you enjoy it!
+
+{::comment}
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
@@ -39,3 +41,5 @@ guide for a complete summary. Briefly:
 
 For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
+
+{:/comment}
