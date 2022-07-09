@@ -4,6 +4,12 @@ title: Documentation
 permalink: /docs/
 ---
 
+# Documentation
+
+## Posts
+
+Welcome to the {{ site.title }} Documentation page! Here you can quickly jump to a particular post.
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,11 +18,7 @@ permalink: /docs/
   {% endfor %}
 </ul>
 
-
-# Documentation
-
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
-particular page.
+## Docs
 
 <div class="section-index">
     <hr class="panel-line">
