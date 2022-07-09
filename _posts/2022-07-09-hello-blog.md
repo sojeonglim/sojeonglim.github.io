@@ -24,3 +24,11 @@ badges:
 post 주소에 baseline url이 포함되지 않아서 그랬던 것 같다. base url을 넣었다 뺐다 페이지가 정상적으로 보였다 깨졌다 난리를 한바탕 치고 이제 페이지는 정상적으로 보이게 되었다.
 
 [Jekyll 가이드]: https://jekyllrb.com/docs/posts/
+
+로컬에서 블로그 변경사항 확인하기 
+
+```bash
+jekyll serve
+# or
+bundle exec jekyll serve
+```
