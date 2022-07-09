@@ -5,11 +5,8 @@ permalink: /about/
 
 # About
 
-This is a [starter template](https://vsoch.github.io/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. See the [repository]({{ site.repo }}) for more details.
+업무 회고를 작성하기 위해 운영하는 블로그입니다.
 
-## Support
-
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
+6년간 개발 PM 업무를 하다가, 최근 3년간은 개발 업무를 하고 있습니다. (2022년 기준)
+위 문장의 6, 3을 수식으로 바꾸고 싶은데 karmdown 에서 어떻게 할 수 있는지는 차차 알아보고 업데이트 하겠습니다.
 
