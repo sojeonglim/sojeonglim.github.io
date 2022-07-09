@@ -7,7 +7,7 @@ permalink: /docs/
 # Documentation
 
 ## Posts
-
+---
 Welcome to the {{ site.title }} Documentation page! Here you can quickly jump to a particular post.
 
 <ul>
