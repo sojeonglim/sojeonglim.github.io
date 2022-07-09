@@ -13,12 +13,13 @@ badges:
 ## Docsy Jekyll Theme
 
 일단은 디자인이 마음에 들어서 선택한 테마인데 여러가지 수정하고 싶은 부분이 많다.
-* 메뉴 바 구성 변경
+* 오른쪽 메뉴 구성 변경
+* 왼쪽 첫 번째 Documentation 메뉴 링크가 Archive를 바라보지 않게 하기
 
 그런데 새로운 문서는 posts 경로에 쓰면 된다고 했는데 posts에 작성한건 검색으로 접근할 수 있는 것 같고 dosc에 작성한 것들이 Documentation 밑에 노출되는 것 같다. 내 용도에 맞지 않는 테마였던 걸까? 아님 docs 밑에 적절한 폴더를 나눠서 문서들을 작성하는 쪽으로 사용해버릴까?
 
 [Jekyll 가이드][Jekyll 가이드]에 의하면 일단 posts에 쓰는 것 같긴 한데 아직 잘 모르겠다.
 
-post 주소에 baseline url이 포함되지 않아서 그런거였다.
+post 주소에 baseline url이 포함되지 않아서 그랬던 것 같다. base url을 넣었다 뺐다 페이지가 정상적으로 보였다 깨졌다 난리를 한바탕 치고 이제 페이지는 정상적으로 보이게 되었다.
 
 [Jekyll 가이드]: https://jekyllrb.com/docs/posts/
