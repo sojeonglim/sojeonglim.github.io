@@ -4,6 +4,15 @@ title: Documentation
 permalink: /docs/
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 # Documentation
 
 Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
